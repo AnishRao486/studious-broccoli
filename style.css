@@ -1,0 +1,8 @@
+body{
+   background-color: blueviolet;
+   color:white;
+}
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+}
